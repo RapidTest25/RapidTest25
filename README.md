@@ -21,12 +21,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RapidTest25&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RapidTest25&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidTest25&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="49%" />
+<a href="https://github.com/RapidTest25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RapidTest25&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
+</a>
+<a href="https://github.com/RapidTest25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidTest25&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true&card_width=350" />
+</a>
 </div>
 
 ---
