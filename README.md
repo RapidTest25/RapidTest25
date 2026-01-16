@@ -20,18 +20,17 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RapidTest25&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidTest25&layout=compact&langs_count=8&theme=shades-of-purple&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RapidTest25&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RapidTest25&theme=shades-of-purple&hide_border=true" alt="RapidTest25's streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidTest25&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RapidTest25&theme=monokai" alt="RapidTest25's GitHub Contribution"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RapidTest25&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
