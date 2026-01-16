@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <a href="https://github.com/RapidTest25">
@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 Technologies ⚡
+## Technologies ⚡
 
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
