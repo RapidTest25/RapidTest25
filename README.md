@@ -21,12 +21,16 @@
 ## GitHub Stats
 
 <div align="center">
-<a href="https://github.com/RapidTest25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RapidTest25&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
-</a>
-<a href="https://github.com/RapidTest25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidTest25&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true&card_width=350" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RapidTest25&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidTest25&layout=compact&langs_count=8&theme=shades-of-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RapidTest25&theme=shades-of-purple&hide_border=true" alt="RapidTest25's streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RapidTest25&theme=monokai" alt="RapidTest25's GitHub Contribution"/>
 </div>
 
 ---
@@ -94,7 +98,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/RapidTest25)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ahmadkhadifar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/RapidTest25)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/RapidTest25)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmadkhadifar25ekj@gmail.com)
