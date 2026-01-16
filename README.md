@@ -21,7 +21,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/RapidTest25/RapidTest25/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![snake](https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center">
