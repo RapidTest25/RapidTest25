@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
----
 
 ## Technologies ⚡
 
