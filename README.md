@@ -86,13 +86,7 @@
 
 ## Connect with Me! 🫱🏻‍🫲🏼
 
-<a href="https://discord.com/users/328089217966145538"
-   target="_blank"
-   rel="noopener noreferrer"
-   class="discord-btn">
-   💬 Chat me on Discord
-</a>
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/328089217966145538)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ahmadkhadifar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadkhadifar_)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/RapidTest25)
