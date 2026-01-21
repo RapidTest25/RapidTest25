@@ -84,6 +84,12 @@
 
 ---
 
+## Donation
+
+[![Donate](https://img.shields.io/badge/Donate-Trakteer-FF4D4D?logo=buymeacoffee&logoColor=white)](https://trakteer.id/rapidtest2/tip)
+
+---
+
 ## Connect with Me! 🫱🏻‍🫲🏼
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/328089217966145538)
