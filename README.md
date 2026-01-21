@@ -23,11 +23,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RapidTest25&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## Technologies ⚡
@@ -92,9 +87,10 @@
 ## Connect with Me! 🫱🏻‍🫲🏼
 
 <div align="center">
+[💬 Chat me on Discord](https://discord.com/users/328089217966145538)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ahmadkhadifar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/RapidTest25)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadkhadifar_)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/RapidTest25)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmadkhadifar25ekj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RapidTest25)
