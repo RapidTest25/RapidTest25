@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="description" content="Ahmad Khadifar - RapidTest25 GitHub Profile">
-  <meta name="keywords" content="RapidTest25, Ahmad Khadifar, ahmadkhadifar, github, developer, software engineer">
+  <meta name="keywords" content="RapidTest25, Ahmad Khadifar, ahmadkhadifar, github, developer, software engineer, full stack developer">
   <meta name="author" content="Ahmad Khadifar">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
