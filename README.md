@@ -67,7 +67,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 
 
 ## Donation
