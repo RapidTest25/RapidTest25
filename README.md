@@ -61,8 +61,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?logo=digitalOcean&logoColor=white)
-
-#### Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
