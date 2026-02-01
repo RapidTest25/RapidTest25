@@ -36,7 +36,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
 
-#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
