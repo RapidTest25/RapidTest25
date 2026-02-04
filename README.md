@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## Core Technical Skills 💼
+## Core Technical Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
