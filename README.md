@@ -2,9 +2,11 @@
 
 <img src="public/img/giphy.gif" alt="Ahmad Khadifar - coding gif" width="100%" />
 
-:wave: Hi, I'm a **Full Stack Developer** from Indonesia 🇮🇩. I'm passionate about building web applications, creating innovative solutions, and bringing ideas to life through code. I have experience working with various technologies from frontend to backend, and I love exploring new frameworks and tools. Whether it's crafting beautiful user interfaces or designing robust server architectures, I enjoy every part of the development process.
+:wave: Hi, I'm a **Full Stack Developer** from Indonesia 🇮🇩 who enjoys building useful tools and web applications that help simplify real problems. I mostly work with the MERN stack and backend development, but I also enjoy exploring system design, automation, and security topics.
 
-I'm currently working on web and software projects, always learning new things like cloud architecture and system design. I believe that great software comes from collaboration, clean code, and continuous improvement.
+I like creating projects such as APIs, developer tools, and systems that focus on efficiency and usability. Recently, I’ve been interested in learning more about cloud architecture, pentesting concepts, and improving development workflows, especially using Linux and CLI environments.
+
+I’m someone who enjoys learning by building. I like experimenting with new technologies, improving existing systems, and understanding how things work behind the scenes. I also enjoy contributing ideas that can help developers or users work more efficiently.
 
 ### Check out my work and connect with me at my [GitHub profile](https://github.com/RapidTest25).
 
@@ -29,7 +31,7 @@ I'm currently working on web and software projects, always learning new things l
 
 ### Some Fun Facts about me:
 
-I love turning coffee into code ☕ and I'm always up for a challenge. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or learning about system design. Fun fact: _There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors_ :zap:
+I enjoy turning coffee into code ☕ and I like building things that solve problems. When I'm not coding, I usually explore new technologies, learn about security, or experiment with tools that improve productivity. :zap:
 
 ## Tech Stack
 
