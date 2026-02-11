@@ -1,30 +1,29 @@
 <!-- ✦ AHMAD KHADIFAR ✦ GitHub Profile README ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=&fontSize=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=180&section=header&text=&fontSize=1" width="100%" />
 
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle" width="300">
+  <img src="public/img/giphy.gif" alt="Coding" width="280" />
+</td>
+<td align="center" valign="middle">
 
-  <img src="public/img/logo.png" alt="Logo" width="120" />
-
-  <br/>
-
-  # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28"> Hi, I'm [Ahmad Khadifar](https://github.com/RapidTest25)
+  <img src="public/img/logo.png" alt="Logo" width="80" />
+  
+  ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="22"> Hi, I'm [Ahmad Khadifar](https://github.com/RapidTest25)
 
   <a href="https://github.com/RapidTest25/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=450&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=380&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <img src="public/img/giphy.gif" alt="Coding" width="400" />
-
-  <br/><br/>
-
-  <a href="https://github.com/RapidTest25"><img src="https://komarev.com/ghpvc/?username=RapidTest25&label=Profile+Views&color=58A6FF&style=flat-square" /></a>
+  <a href="https://github.com/RapidTest25"><img src="https://komarev.com/ghpvc/?username=RapidTest25&label=Views&color=58A6FF&style=flat-square" /></a>
   <a href="https://github.com/RapidTest25?tab=followers"><img src="https://img.shields.io/github/followers/RapidTest25?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
-  <a href="https://github.com/RapidTest25?tab=repositories"><img src="https://img.shields.io/github/stars/RapidTest25?label=Total+Stars&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
+  <a href="https://github.com/RapidTest25?tab=repositories"><img src="https://img.shields.io/github/stars/RapidTest25?label=Stars&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -32,20 +31,21 @@
 
 <div align="center">
 
-  ## 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 </div>
 
 ```js
 const ahmadKhadifar = {
-    pronouns: "He" | "Him",
-    role: "Full Stack Developer",
-    location: "Indonesia 🇮🇩",
-    currentlyWorkingOn: "Web & Software Projects",
-    learning: ["New Frameworks", "Cloud Architecture", "System Design"],
-    askMeAbout: ["Web Dev", "Tech", "Backend", "Frontend"],
-    funFact: "There are two hard things in CS: cache invalidation, naming things, and off-by-one errors",
-    contact: "ahmadkhadifar25ekj@gmail.com"
+  pronouns: "He" | "Him",
+  role: "Full Stack Developer",
+  location: "Indonesia 🇮🇩",
+  currentlyWorkingOn: "Web & Software Projects",
+  learning: ["New Frameworks", "Cloud Architecture", "System Design"],
+  askMeAbout: ["Web Dev", "Tech", "Backend", "Frontend"],
+  funFact:
+    "There are two hard things in CS: cache invalidation, naming things, and off-by-one errors",
+  contact: "ahmadkhadifar25ekj@gmail.com",
 };
 ```
 
@@ -55,14 +55,14 @@ const ahmadKhadifar = {
 
 <div align="center">
 
-  ## 🌐 Connect with Me
+## 🌐 Connect with Me
 
-  <a href="https://discord.com/users/328089217966145538"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ahmadkhadifar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://www.instagram.com/ahmadkhadifar_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-  <a href="https://www.x.com/RapidTest25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="mailto:ahmadkhadifar25ekj@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/RapidTest25"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://discord.com/users/328089217966145538"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ahmadkhadifar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.instagram.com/ahmadkhadifar_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://www.x.com/RapidTest25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="mailto:ahmadkhadifar25ekj@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/RapidTest25"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -149,9 +149,6 @@ const ahmadKhadifar = {
 </div>
 
 <p align="center">
-  <a href="https://github.com/RapidTest25">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RapidTest25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&ring_color=58A6FF" alt="Stats" />
-  </a>
   <a href="https://github.com/RapidTest25">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RapidTest25&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="Streak" />
   </a>
