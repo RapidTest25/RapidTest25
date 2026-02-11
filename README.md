@@ -11,17 +11,19 @@ I'm currently working on web and software projects, always learning new things l
 ### Find me around the web:
 
 <p align="left">
-<a href="https://discord.com/users/328089217966145538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmadkhadifar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ahmadkhadifar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.x.com/RapidTest25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" height="30" width="40" /></a>
-<a href="mailto:ahmadkhadifar25ekj@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://github.com/RapidTest25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://discord.com/users/328089217966145538" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.linkedin.com/in/ahmadkhadifar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/ahmadkhadifar_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.x.com/RapidTest25" target="blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:ahmadkhadifar25ekj@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/RapidTest25" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ### Support my work:
 
 <a href="https://trakteer.id/rapidtest2/tip" target="blank"><img src="https://img.shields.io/badge/Trakteer-Support_Me-FF4D4D?style=flat&logo=buymeacoffee&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=RapidTest25&style=flat&color=blue&label=Profile+Views" alt="Profile Views" />
 
 <img align="right" src="public/img/logo.png" width="120" alt="Ahmad Khadifar logo" />
 
