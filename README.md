@@ -1,195 +1,94 @@
-<!-- ✦ AHMAD KHADIFAR ✦ GitHub Profile README ✦ -->
+## :wave: Hey everyone, I'm Ahmad Khadifar :wave:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=180&section=header&text=&fontSize=1" width="100%" />
+<img src="public/img/giphy.gif" alt="Ahmad Khadifar - coding gif" width="100%" />
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="middle" width="300">
-  <img src="public/img/giphy.gif" alt="Coding" width="280" />
-</td>
-<td align="center" valign="middle">
+:wave: Hi, I'm a **Full Stack Developer** from Indonesia 🇮🇩. I'm passionate about building web applications, creating innovative solutions, and bringing ideas to life through code. I have experience working with various technologies from frontend to backend, and I love exploring new frameworks and tools. Whether it's crafting beautiful user interfaces or designing robust server architectures, I enjoy every part of the development process.
 
-  <img src="public/img/logo.png" alt="Logo" width="80" />
-  
-  ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="22"> Hi, I'm [Ahmad Khadifar](https://github.com/RapidTest25)
+I'm currently working on web and software projects, always learning new things like cloud architecture and system design. I believe that great software comes from collaboration, clean code, and continuous improvement.
 
-  <a href="https://github.com/RapidTest25/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=380&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+### Check out my work and connect with me at my [GitHub profile](https://github.com/RapidTest25).
 
-  <a href="https://github.com/RapidTest25"><img src="https://komarev.com/ghpvc/?username=RapidTest25&label=Views&color=58A6FF&style=flat-square" /></a>
-  <a href="https://github.com/RapidTest25?tab=followers"><img src="https://img.shields.io/github/followers/RapidTest25?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
-  <a href="https://github.com/RapidTest25?tab=repositories"><img src="https://img.shields.io/github/stars/RapidTest25?label=Stars&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
+### Find me around the web:
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
-
-<div align="center">
-
-## 🧑‍💻 About Me
-
-</div>
-
-```js
-const ahmadKhadifar = {
-  pronouns: "He" | "Him",
-  role: "Full Stack Developer",
-  location: "Indonesia 🇮🇩",
-  currentlyWorkingOn: "Web & Software Projects",
-  learning: ["New Frameworks", "Cloud Architecture", "System Design"],
-  askMeAbout: ["Web Dev", "Tech", "Backend", "Frontend"],
-  funFact:
-    "There are two hard things in CS: cache invalidation, naming things, and off-by-one errors",
-  contact: "ahmadkhadifar25ekj@gmail.com",
-};
-```
-
-<br/>
-
-<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 Connect with Me
-
-<a href="https://discord.com/users/328089217966145538"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ahmadkhadifar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/ahmadkhadifar_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="https://www.x.com/RapidTest25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-<a href="mailto:ahmadkhadifar25ekj@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/RapidTest25"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack
-
-</div>
-
-<table align="center" border="0">
-<tr><td valign="top" width="33%">
-
-<div align="center">
-
-#### 🎨 Frontend
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,materialui&perline=5" alt="Frontend" />
-
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">
-
-#### ⚙️ Backend
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,flask&perline=4" alt="Backend" />
-
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">
-
-#### 🗄️ Database & BaaS
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase&perline=3" alt="Database" />
-
-</div>
-
-</td></tr>
-</table>
-
-<div align="center">
-
-#### 🚀 DevOps & Tools
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,vscode,postman&perline=8" alt="DevOps & Tools" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/RapidTest25">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RapidTest25&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="Streak" />
-  </a>
+<p align="left">
+<a href="https://discord.com/users/328089217966145538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmadkhadifar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmadkhadifar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.x.com/RapidTest25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" height="30" width="40" /></a>
+<a href="mailto:ahmadkhadifar25ekj@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://github.com/RapidTest25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/RapidTest25">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RapidTest25&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=1a3a5c" width="98%" alt="Activity Graph" />
-</a>
+### Support my work:
 
-<br/><br/>
+<a href="https://trakteer.id/rapidtest2/tip" target="blank"><img src="https://img.shields.io/badge/Trakteer-Support_Me-FF4D4D?style=flat&logo=buymeacoffee&logoColor=white" /></a>
 
-<!-- ══════════════════════ RANDOM DEV QUOTE ══════════════════════ -->
+<img align="right" src="public/img/logo.png" width="120" alt="Ahmad Khadifar logo" />
 
-<div align="center">
+### Some Fun Facts about me:
 
-## 💭 &nbsp;Dev Quote of the Day
+I love turning coffee into code ☕ and I'm always up for a challenge. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or learning about system design. Fun fact: _There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors_ :zap:
 
-<a href="https://github.com/RapidTest25">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%" />
-</a>
+## Tech Stack
 
-</div>
+I work with a wide range of technologies across the full stack:
 
-<br/>
+**Languages & Frontend:**
 
-<!-- ══════════════════════ SUPPORT ══════════════════════ -->
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="35" height="35" />
+</p>
 
-<div align="center">
+**Backend & Database:**
 
-## ☕ &nbsp;Support My Work
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="35" height="35" />
+</p>
 
-<p>If you enjoy what I do, consider supporting me!</p>
+**DevOps & Tools:**
 
-<a href="https://trakteer.id/rapidtest2/tip">
-  <img src="https://img.shields.io/badge/Trakteer-Support_Me-FF4D4D?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Trakteer" height="40" />
-</a>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="35" height="35" />
+</p>
 
-</div>
+## GitHub Stats
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RapidTest25&theme=github-dark-blue&hide_border=true" width="700">
 
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
+### Watch my contribution graph get eaten by the snake :snake:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RapidTest25/RapidTest25/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
