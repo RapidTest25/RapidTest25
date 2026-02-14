@@ -1,6 +1,6 @@
 ## :wave: Hey everyone, I'm Ahmad Khadifar :wave:
 
-<img src="public/img/RapidTest-Room.gif" alt="Ahmad Khadifar - coding setup" width="100%" />
+<img src="public/img/RapidTest-Room1.gif" alt="Ahmad Khadifar - coding setup" width="100%" />
 
 :wave: Hi, I'm a **Full Stack Developer** from Indonesia 🇮🇩 who enjoys building useful tools and web applications that help simplify real problems. I mostly work with the MERN stack and backend development, but I also enjoy exploring system design, automation, and security topics.
 
